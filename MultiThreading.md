@@ -4,10 +4,18 @@ MULTITHREADING
 - Creating Threads
 - Thread Class
 - Runnable Interface
+- Difference Between wait() and sleep()
 - Synchronization
+- Volatile Keyword
 - Deadlock
 - Inter-Thread Communication
 - Executor Framework
 - Callable and Future
 - Concurrent Collections
 - Thread Pool
+- ReentrantLock
+- ConcurrentHashMap
+- Thread Pool
+- Difference Between Runnable and Callable
+- volatile and synchronized
+- notify() and notifyAll() ...
